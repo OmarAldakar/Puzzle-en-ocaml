@@ -10,8 +10,13 @@ La particularité de ce projet c'est que l'on résoud ,au moyen d'un SAT solver,
 - Installer ocaml "sudo apt install ocaml"
 - Puis exécuter ./compile.sh dans le dossier ou ce trouve ce README
 
-# Images
+## Images
 
 ![Puzzle image 1](puzzle1.PNG)
 
 ![Puzzle image 1](puzzle2.PNG)
+
+## Contributeurs 
+ 
+- Yuchen Bai
+- Omar Aldakar
